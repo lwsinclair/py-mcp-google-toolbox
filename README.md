@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/jikime-py-mcp-google-toolbox-badge.png)](https://mseep.ai/app/jikime-py-mcp-google-toolbox)
+
 # py-mcp-google-toolbox
 [![smithery badge](https://smithery.ai/badge/@jikime/py-mcp-google-toolbox)](https://smithery.ai/server/@jikime/py-mcp-google-toolbox) ![](https://badge.mcpx.dev?type=server 'MCP Server') ![Version](https://img.shields.io/badge/version-1.1.10-green) ![License](https://img.shields.io/badge/license-MIT-blue)
 
